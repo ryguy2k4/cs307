@@ -2,3 +2,5 @@
 test_files
 *.joblib
 .DS_Store
+notes
+lab-11/data
